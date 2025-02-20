@@ -1,0 +1,9 @@
+# https://settlewellrealty.com/robots.txt
+# Allow all crawlers
+User-agent: *
+Allow: /
+Allow: /privacy-policy
+Allow: /terms-of-service
+
+# Sitemap
+Sitemap: https://settlewellrealty.com/sitemap.xml 
