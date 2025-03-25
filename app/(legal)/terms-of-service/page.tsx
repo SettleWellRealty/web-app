@@ -37,7 +37,7 @@ export default function TermsOfService() {
 									</p>
 									<p className="text-muted-foreground text-sm">
 										{Brand.licenseNumber}
-									</p>	100101869
+									</p>	
 								</div>
 							</div>
 
