@@ -36,7 +36,7 @@ export default function TermsOfService() {
 										Colorado Real Estate License
 									</p>
 									<p className="text-muted-foreground text-sm">
-										{Brand.100101869}
+										{Brand.licenseNumber}
 									</p>	
 								</div>
 							</div>
