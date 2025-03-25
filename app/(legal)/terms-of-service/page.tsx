@@ -155,7 +155,7 @@ export default function TermsOfService() {
 											</p>
 											<p>
 												<span className="text-brand-foreground/75">
-													License:{"EC.100101869"}
+													License:{" "}
 												</span>
 												{Brand.licenseNumber}
 											</p>
